@@ -1,16 +1,18 @@
-## Hi there 👋
+## <img src="./resources/tree-of-life.gif" height="20" /> Saurabh Bhagat
 
-<!--
-**bhagatsaurabh/bhagatsaurabh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend-heavy Full-Stack Engineer building scalable web applications and end-to-end backend solutions.
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<small>
+With experience in frontend architecture, CI/CD, cloud infrastructure & migration, API development, automation, and productivity tooling across enterprise environments.
+</small>
+
+<br/>
+<br/>
+
+> LinkedIn: [/in/saurabh-bhagat](https://linkedin.com/in/saurabh-bhagat)
+> <br/>
+> Portfolio: [saurabhagat.me](https://saurabhagat.me)
