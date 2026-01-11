@@ -1,11 +1,8 @@
-<!-- <img style="position:absolute;z-index:-1;object-fit:cover;object-position:right bottom;" height="350" src="./resources/cover.gif" /> -->
-
-## Saurabh Bhagat
+<!-- ## Saurabh Bhagat
 
 Frontend-heavy Full-Stack Engineer building scalable web applications and end-to-end backend solutions.
 
 <br/>
-<small style="color:red;">.</small>
 
 <small>
 With experience in frontend architecture, CI/CD, cloud infrastructure & migration, API development, automation, and productivity tooling across enterprise environments.
@@ -14,6 +11,15 @@ With experience in frontend architecture, CI/CD, cloud infrastructure & migratio
 <br/>
 <br/>
 
-LinkedIn: [/in/saurabh-bhagat](https://linkedin.com/in/saurabh-bhagat)
+LinkedIn: <a href="https://linkedin.com/in/saurabh-bhagat" target="_blank">/in/saurabh-bhagat</a>
 <br/>
-Portfolio: [saurabhagat.me](https://saurabhagat.me)
+Portfolio: <a href="https://saurabhagat.me" target="_blank">saurabhagat.me</a>
+
+<img width="100%" src="./resources/cover.gif" />
+ -->
+
+<div style="width: 100%;">
+  <a href="https://saurabhagat.me">
+    <img src="./resources/home.svg" style="width: 100%;" alt="Saurabh Bhagat">
+  </a>
+</div>
